@@ -1,6 +1,6 @@
 # IT5437 Computer Vision — Assignment 02: Fitting and Alignment
 
-**Weerarathna T.M.P. | Index: 258843A**
+**MSc in Artificial Intelligence, University of Moratuwa**
 
 ## Setup
 
